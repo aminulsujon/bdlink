@@ -1,6 +1,6 @@
 touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/532sujon/bdlink.git
-git push -u origin master
+dblink readme
+2013-09-08
+commit 1.0
+https://github.com/532sujon/bdlink.git
+
